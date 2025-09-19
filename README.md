@@ -1,1 +1,3 @@
 ## Multidimensional Scaling
+
+El presente trabajo investigativo explora las diversas aplicaciones del analisis multidimensional escalonado en bases de datos, contrastando los resultados obtenidos con los modelos clasicos y métricos a través de estudios de casos prácticos. El enfoque del estudio está ́en los fundamentos matematicos del MDS clásico, su implementación en Python y su efectividad en la reduccion de dimensionalidad para facilitar la visualización y el reconocimiento de patrones.
